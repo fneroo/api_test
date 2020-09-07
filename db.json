@@ -2,71 +2,50 @@
 	{
 		"question": "What Color is Clifford the big Dog?",
 		"name": "Alex",
-		"answers": [ "Yellow", "Red", "Blue", "Green" ],
 		"correct_answer": 1,
 		"id": 1,
-		"quizId": 1,
-		"image": 1,
 		"imageLink": "https://pbs.twimg.com/profile_images/707294483369607168/0P2aT3lU_400x400.jpg"
 	},
 	{
 		"question": "What kind of vehicle is Thomas?",
 		"name": "Carol",
-		"answers": [ "Airplane", "Submarine", "Car", "Train" ],
 		"correct_answer": 3,
 		"id": 2,
-		"quizId": 1,
-		"image": 0,
 		"imageLink": "https://pbs.twimg.com/profile_images/707294483369607168/0P2aT3lU_400x400.jpg"
 	},
 	{
 		"question": "What program features Lightning McQueen",
 		"name": "Lisa",
-		"answers": [ "Cars", "Frozen", "Shrek", "Baby Shark" ],
 		"correct_answer": 0,
 		"id": 3,
-		"quizId": 1,
-		"image": 0,
 		"imageLink": "https://pbs.twimg.com/profile_images/707294483369607168/0P2aT3lU_400x400.jpg"
 	},
 	{
 		"question": "Who was the mechanic in Rescue in Rangers?",
 		"name": "Maria",
-		"answers": [ "Chip", "Dale", "Gadget", "Bernard" ],
 		"correct_answer": 3,
 		"id": 4,
-		"quizId": 1,
-		"image": 1,
 		"imageLink": "https://pbs.twimg.com/profile_images/707294483369607168/0P2aT3lU_400x400.jpg"
 	},
 	{
 		"question": "What race does flash play?",
 		"name": "Carlos",
-		"answers": [ "Terran", "Protoss", "Zerg", "Night Elf" ],
 		"correct_answer": 0,
 		"id": 5,
-		"quizId": 1,
-		"image": 0,
 		"imageLink": "https://pbs.twimg.com/profile_images/707294483369607168/0P2aT3lU_400x400.jpg"
 	},
 	{
 		"question": "What country does Serral call home?",
 		"name": "Jian",
-		"answers": [ "The Netherlands", "Korea", "USA", "Finland" ],
 		"correct_answer": 3,
 		"id": 6,
-		"quizId": 1,
-		"image": 1,
 		"imageLink": "https://pbs.twimg.com/profile_images/707294483369607168/0P2aT3lU_400x400.jpg"
 	},
 	{
 		"question": "Which immobile ground unit has the longest in range?",
 		"name": "Rene",
-		"answers": [ "Siege Tank", "Spore Colony", "Photon Cannon", "Bunker Marines" ],
 		"correct_answer": 0,
 		"id": 7,
-		"quizId": 1,
-		"image": 0,
 		"imageLink": "https://pbs.twimg.com/profile_images/707294483369607168/0P2aT3lU_400x400.jpg"
 	}
 ]
